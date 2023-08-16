@@ -26,6 +26,8 @@ Die Situation hat sich verbessert, keine Frage: Weltweit entwickeln sich Initiat
 
 Daher kann eine Geschichte und Perspektive der digitalen Arabistik auch nicht ohne die Frage nach dem (post)kolonialen Erbe formuliert werden und ohne in den Blick zu nehmen, wie sich die Fachcommunities gegenseitig aus- oder umschließen.
 
+---
+
 [^1]: https://www.geschkult.fu-berlin.de/e/semiarab/arabistik/Seminar/Termine/infu_2021.html
 [^2]: https://www.arabisch-digital.gwi.uni-muenchen.de/
 [^3]: 
