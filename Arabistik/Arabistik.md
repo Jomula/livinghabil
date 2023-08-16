@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Arabistik"
+date:   2023-08-15 18:28:13 +0200
+nav_order: 2
+categories: habil kapitel
+---
+
+Es ist schwerlich möglich, sich ein Bild von der Lage der digitalen Arabistik zu machen, ohne eine Bestandserhebung des status quo vorzunehmen. Dabei spielen verschiedene Elemente eine Rolle: Wieviele Institute gibt es deutschlandweit? Wie sehen dort die Lehrpläne aus? Wie ist der Studienverlaufsplan? Wieviel wird integrativ dort über digitale Methoden gesprochen, gelehrt, wieviel ist vorgesehen? Oder sind digitale Methoden noch immer eher als ein Novum, als ein freiwilliger Appendix des wissenschaftlichen Methodenfundus zu sehen? 
+
+Weiterhin sind die Institute in Deutschland noch immer konservativ auf Professuren hin ausgerichtet. Daher muss auch hier gefragt werden: Wieviele Professuren gibt es? Wer besetzt diese Professuren aktuell und wie ist das Portfolio der Professor:innen im Hinblick auf digitale Methoden? Wie progressiv oder konservativ ist die Forschungsausrichtung? Auch ist die Lage bei den Forschungsprojekten natürlich nicht deckungsgleich mit der Zahl der Institute. Nicht nur gibt es gerade im Bereich der Prä- und Postdocs potenziell mehrere laufende Forschungsprojekte an einem Insitut, auch können fachlich einschlägige Forschungsprojekte an Einrichtungen laufen, die nicht spezifisch auf das Profil "Arabistik" hin passen.
+
+Das Datenkorpus muss also aus mehreren kleineren Korpora bestehen:
+- Die Institute und Professuren, samt der Selbstdarstellung des Studienverlaufs und des de facto Studienangebots. Hierbei dienen die Erhebungen der Arbeitsgruppe "Kleine Fächer" als Grundlage, sowie die von den Universitäten selbst bereitgestellten Informationen zu den Studiengängen und Vorlesungsverzeichnisse. Weiterhin werden die Forschungsprofile und Publikationen der Professor:innen berücksichtigt, da diese oft prägend sind für die Gesamtausrichtung der Fachvermittlung.
+- Forschungsprojekte an Universitäten und außeruniversitären Forschungseinrichtungen. Hierbei bildet das im Projekt "Closing the Gap in Non-Latin Script Data" gesammelte Datenkorpus die Grundlage, das angereichert wird mit Informationen zu den in den einschlägigen Institutionen angesiedelten Forschungsprojekten, die zum Bereich der konservativen, hier im Sinne einer rein analogen, Forschung gezählt werden können.
+- Forschungsbeiträge von Personen oder Projekten, die auf deutschen Fachkonferenzen angenommen wurden. Dabei werden sowohl Fachkonferenzen im Bereich der Arabistk, hier vor allem dem "Deutschen Orientalistentag" und xyz (#TODO: welche anderen?), berücksichtigt, als auch Fachkonferenzen in den Digital Humanities, hier vor allem die DHd-Konferenz.
+
+Keine Berücksichtigung in der Erhebung dienen Projekte, die nicht Teil der öffentlichen Fachkommunikation sind. Dazu zählen etwa Studienarbeiten, in der Entstehung begriffene Doktorarbeiten, aber auch Projekte ohne Außendarstellung. Ich gehe davon aus, dass Projekte, die nichts von der eigenen Arbeit zu berichten haben, entweder wissenschaftlich fragwürdig arbeiten, auf Eis liegen, oder schlicht irrelevant für die generelle Fachentwicklung mit Blick auf digitale Methoden sind.
+
+Voraussetzung dafür, dass Projekte und Institute in dieser Untersuchung berücksichtigt werden, ist, dass sie sich auf irgendeine Art mit der arabischen Sprache oder Schrift auseinandersetzen. Das impliziert auch Arbeiten zur Literatur oder Geschichte, sofern sie sich fachlich grob in den Bereich der Arabistik eingliedern lassen, also mit arabischsprachigen oder -schriftlichen Quellen arbeiten. Hierbei ist auch die Abgrenzung zur Semitistik und Islamwissenschaft wichtig: Die Islamwissenschaft _kann_ sich im Arbeitsfeld der Arabistik bewegen, wird von mir hier aber insofern als nicht einschlägiges Feld gesehen, da sie mehr im Methodenkosmos der Religions- und Politikwissenschaft angesiedelt ist und so zwar arabischsprachige und -schriftliche Quellen bearbeitet, aber nicht eigentlich die Literarizität oder Schriftlichkeit der Quelle an sich zum Gegenstand hat.
+
+Andersherum ist das bei der Semitistik, die ähnlich wie die Arabistik als auf Schriftlichkeit und Literatur fokussiertes Fach verstanden wird. Hier wird die Abgrenzung entlang der Grenzen des Arabischen vorgenommen: Arbeiten und Projekte, die sich auf das Arabische fokussieren, werden gleich ihrer institutionellen Einbettung als arabistisch angenommen. Solche, die sich etwa mit Koptisch, Hebräisch oder anderen üblichen Sprachen der SWANA-Regionen beschäftigen, werden als semitistisch und damit nicht als Teil des hier zu untersuchenden Korpus betrachtet.
+
+Allgemein ist die Forschungslandschaft selbst in einem so halbwegs übersichtlichen Fach wie so außerordentlich divers, dass es kaum möglich sein wird, ein vollständiges Bild der Lage zu bekommen. Die Datenerhebung erfolgt so gründlich wie möglich, aber natürlich kann auch ich im Labyrinth eines wenig standardisierten und sehr zellular arbeitenden Faches Arbeiten und Projekte übersehen. Das ist am Ende aber kaum dramatisch: Hier geht es um einen groben Trend, eine sichtbare Entwicklung. Und diese ist naturgemäß eh schon während des Entstehens veraltet.
+
+### Universitäten, Institute und Professuren
+
+Im Jahr 2023 gibt es in Deutschland insgesamt 13 Standorte mit Instituten, die ausschließlich oder teilweise mit der Bezeichnung "Arabistik" arbeiten. In der Summe sind an diesen 12 unbefristete Professuren eingerichtet.[^1] In der Entwicklung seit 1997 hat sich dabei kaum etwas an dieser Zahl geändert, wobei an vier Standorten Professuren und damit die Fachinstitute (#TODO: checken) aufgelöst wurden, an fünf Standorten dafür aber Professuren geschaffen wurden, an denen vorher keine ständige Professur unterhalten wurde.[^2] Mit dieser Zahl bewegt sich das Fach auf Platz 66 von 164 aller Fächer, die durch die Arbeitsstelle Kleine Fächer als "Kleines Fach" kategorisiert wurden.
+
+---
+
+[^1]: https://www.kleinefaecher.de/kartierung/kleine-faecher-von-a-z?tx_dmdb_monitoring%5Baction%5D=showByLocations&tx_dmdb_monitoring%5Bcontroller%5D=DisciplineTaxonomy&tx_dmdb_monitoring%5BdisciplineTaxonomy%5D=11&cHash=33379167a96f5dadb20baa1aee6d403a#overview (2023-08-16)
+[^2]: https://www.kleinefaecher.de/kartierung/kleine-faecher-von-a-z?tx_dmdb_monitoring%5Baction%5D=showByLocations&tx_dmdb_monitoring%5Bcontroller%5D=DisciplineTaxonomy&tx_dmdb_monitoring%5BdisciplineTaxonomy%5D=11&cHash=33379167a96f5dadb20baa1aee6d403a#people (2023-08-16)
