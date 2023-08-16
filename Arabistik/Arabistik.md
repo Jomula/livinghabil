@@ -22,11 +22,6 @@ Voraussetzung dafür, dass Projekte und Institute in dieser Untersuchung berück
 Andersherum ist das bei der Semitistik, die ähnlich wie die Arabistik als auf Schriftlichkeit und Literatur fokussiertes Fach verstanden wird. Hier wird die Abgrenzung entlang der Grenzen des Arabischen vorgenommen: Arbeiten und Projekte, die sich auf das Arabische fokussieren, werden gleich ihrer institutionellen Einbettung als arabistisch angenommen. Solche, die sich etwa mit Koptisch, Hebräisch oder anderen üblichen Sprachen der SWANA-Regionen beschäftigen, werden als semitistisch und damit nicht als Teil des hier zu untersuchenden Korpus betrachtet.
 
 Allgemein ist die Forschungslandschaft selbst in einem so halbwegs übersichtlichen Fach wie so außerordentlich divers, dass es kaum möglich sein wird, ein vollständiges Bild der Lage zu bekommen. Die Datenerhebung erfolgt so gründlich wie möglich, aber natürlich kann auch ich im Labyrinth eines wenig standardisierten und sehr zellular arbeitenden Faches Arbeiten und Projekte übersehen. Das ist am Ende aber kaum dramatisch: Hier geht es um einen groben Trend, eine sichtbare Entwicklung. Und diese ist naturgemäß eh schon während des Entstehens veraltet.
-
-### Universitäten, Institute und Professuren
-
-Im Jahr 2023 gibt es in Deutschland insgesamt 13 Standorte mit Instituten, die ausschließlich oder teilweise mit der Bezeichnung "Arabistik" arbeiten. In der Summe sind an diesen 12 unbefristete Professuren eingerichtet.[^1] In der Entwicklung seit 1997 hat sich dabei kaum etwas an dieser Zahl geändert, wobei an vier Standorten Professuren und damit die Fachinstitute (#TODO: checken) aufgelöst wurden, an fünf Standorten dafür aber Professuren geschaffen wurden, an denen vorher keine ständige Professur unterhalten wurde.[^2] Mit dieser Zahl bewegt sich das Fach auf Platz 66 von 164 aller Fächer, die durch die Arbeitsstelle Kleine Fächer als "Kleines Fach" kategorisiert wurden.
-
 ---
 
 [^1]: [Arbeitsstelle Kleine Fächer](https://www.kleinefaecher.de/kartierung/kleine-faecher-von-a-z?tx_dmdb_monitoring%5Baction%5D=showByLocations&tx_dmdb_monitoring%5Bcontroller%5D=DisciplineTaxonomy&tx_dmdb_monitoring%5BdisciplineTaxonomy%5D=11&cHash=33379167a96f5dadb20baa1aee6d403a#overview) (2023-08-16)
