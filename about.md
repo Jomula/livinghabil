@@ -12,3 +12,6 @@ Diese Seite ist zunächst ein Test und nichts weiter. Ich bin nicht wirklich sch
 > That is not dead which can eternal lie [...]
 
 Diese Monographie ist nicht tot, sie liegt ja hier. Zumindest, solange das Repo existiert. :o)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8252031.svg)](https://doi.org/10.5281/zenodo.8252031)
+
