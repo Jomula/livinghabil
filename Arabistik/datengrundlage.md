@@ -14,7 +14,10 @@ Weiterhin sind die Institute in Deutschland noch immer konservativ auf Professur
 Das Datenkorpus muss also aus mehreren kleineren Korpora bestehen:
 - Die Institute und Professuren, samt der Selbstdarstellung des Studienverlaufs und des de facto Studienangebots. Hierbei dienen die Erhebungen der Arbeitsgruppe "Kleine Fächer" als Grundlage, sowie die von den Universitäten selbst bereitgestellten Informationen zu den Studiengängen und Vorlesungsverzeichnisse. Weiterhin werden die Forschungsprofile und Publikationen der Professor:innen berücksichtigt, da diese oft prägend sind für die Gesamtausrichtung der Fachvermittlung.
 - Forschungsprojekte an Universitäten und außeruniversitären Forschungseinrichtungen. Hierbei bildet das im Projekt "Closing the Gap in Non-Latin Script Data" gesammelte Datenkorpus die Grundlage, das angereichert wird mit Informationen zu den in den einschlägigen Institutionen angesiedelten Forschungsprojekten, die zum Bereich der konservativen, hier im Sinne einer rein analogen, Forschung gezählt werden können.
-- Forschungsbeiträge von Personen oder Projekten, die auf deutschen Fachkonferenzen angenommen wurden. Dabei werden sowohl Fachkonferenzen im Bereich der Arabistk, hier vor allem dem "Deutschen Orientalistentag" und xyz (#TODO: welche anderen?), berücksichtigt, als auch Fachkonferenzen in den Digital Humanities, hier vor allem die DHd-Konferenz.
+- Forschungsbeiträge von Personen oder Projekten, die auf deutschen Fachkonferenzen angenommen wurden. Dabei werden sowohl Fachkonferenzen im Bereich der Arabistk, hier vor allem dem "Deutschen Orientalistentag" und xyz, berücksichtigt, als auch Fachkonferenzen in den Digital Humanities, hier vor allem die DHd-Konferenz.
+
+> {: .todo }
+> Welche anderen Konferenzen?
 
 Keine Berücksichtigung in der Erhebung dienen Projekte, die nicht Teil der öffentlichen Fachkommunikation sind. Dazu zählen etwa Studienarbeiten, in der Entstehung begriffene Doktorarbeiten, aber auch Projekte ohne Außendarstellung. Ich gehe davon aus, dass Projekte, die nichts von der eigenen Arbeit zu berichten haben, entweder wissenschaftlich fragwürdig arbeiten, auf Eis liegen, oder schlicht irrelevant für die generelle Fachentwicklung mit Blick auf digitale Methoden sind.
 
