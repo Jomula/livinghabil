@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 title:  "Universitäten, Institute und Professuren"
-date:   2023-08-15 18:28:13 +0200
 nav_order: 1
-categories: habil kapitel
+parent: "Arabistik"
 ---
 
 ### Universitäten, Institute und Professuren

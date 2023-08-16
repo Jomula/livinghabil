@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 title:  "Arabistik"
-date:   2023-08-15 18:28:13 +0200
 nav_order: 2
-categories: habil kapitel
+has_children: true
 ---
 
 Es ist schwerlich möglich, sich ein Bild von der Lage der digitalen Arabistik zu machen, ohne eine Bestandserhebung des status quo vorzunehmen. Dabei spielen verschiedene Elemente eine Rolle: Wieviele Institute gibt es deutschlandweit? Wie sehen dort die Lehrpläne aus? Wie ist der Studienverlaufsplan? Wieviel wird integrativ dort über digitale Methoden gesprochen, gelehrt, wieviel ist vorgesehen? Oder sind digitale Methoden noch immer eher als ein Novum, als ein freiwilliger Appendix des wissenschaftlichen Methodenfundus zu sehen? 

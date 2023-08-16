@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Einleitung"
-date:   2023-08-14 18:28:13 +0200
 nav_order: 1
-categories: habil kapitel
 ---
 
 # That is not dead which can eternal lie
