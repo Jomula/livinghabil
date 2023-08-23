@@ -14,4 +14,6 @@ Diese Seite ist zunächst ein Test und nichts weiter. Ich bin nicht wirklich sch
 Diese Monographie ist nicht tot, sie liegt ja hier. Zumindest, solange das Repo existiert. :o)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8252031.svg)](https://doi.org/10.5281/zenodo.8252031)
+[![CC-BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-sa/4.0/)
 
