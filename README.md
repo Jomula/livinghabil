@@ -5,5 +5,7 @@ This is a radical OpenScience'ish project. I am most certainly not an enthusiast
 Commenting can be done via [Hypothesis](https://web.hypothes.is/) or in the issues here on Github.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8262458.svg)](https://doi.org/10.5281/zenodo.8262458)
+
+
 [![CC-BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-sa/4.0/)
