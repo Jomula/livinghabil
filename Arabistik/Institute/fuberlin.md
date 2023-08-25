@@ -3,6 +3,7 @@ layout: page
 title:  "Freie Universität Berlin"
 nav_order: 1
 parent: "Universitäten, Institute und Professuren"
+grand_parent: "Arabistik"
 ---
 
 Die Freie Universität Berlin unterhält am Fachbereich Geschichts- und Kulturwissenschaften das Seminar für Semitistik und Arabistik, das sowohl den Lehrstuhl für Semitistik, als auch den für Arabistik umfasst. In der Eigendarstellung beschreibt die Arabistik das Fachprofil wie folgt:
