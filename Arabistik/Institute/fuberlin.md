@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Freie Universität Berlin"
+nav_order: 1
 parent: "Universitäten, Institute und Professuren"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Universitäten, Institute und Professuren"
-nav_order: 
+nav_order: 1
 has_children: true
 parent: "Arabistik"
 ---
