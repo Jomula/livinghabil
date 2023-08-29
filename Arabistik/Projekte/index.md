@@ -10,3 +10,5 @@ parent: "Arabistik"
 
 - Online Bibliothek der frühesten arabischen Bücher aus dem 9, Jh. A.D.
 - AnonymClassic
+- PalRead
+- Closing the Gap
